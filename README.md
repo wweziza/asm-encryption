@@ -1,6 +1,5 @@
-# assembly-encryption
-Brainducking ASM
-#### Video Demo:  *removed*
+# Assembly Brainducking Encryption
+#### Video Demo:  https://youtu.be/Qe11XJxvn84E
 #### Description:
 This project, titled "Assembly Brainducking Encryption," is an educational demonstration of basic encryption techniques using assembly language. It was inspired by a significant security flaw in Ubisoft's game Growtopia, where a vulnerability in the save.dat file went unpatched for nearly a decade. This incident underscores the critical importance of encryption in protecting sensitive data. As part of a final project for a Harvard certification, this work illustrates how to implement file encryption using the XOR method in a straightforward yet effective way.
 
@@ -28,14 +27,14 @@ Before you can run the assembly encryption program, you'll need to install a few
 ### Usage
 Once you have the required tools installed, you can assemble, link, and run the encryption program as follows:
 
-```bash
+    ```bash
     cd asm-encrypt
     make
     ./encrypt
-```
+    ```
 
 For decryption
-```bash
+    ```bash
     ./decrypt
     ```
 
