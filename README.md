@@ -26,7 +26,6 @@ Before you can run the assembly encryption program, you'll need to install a few
 
 ### Usage
 Once you have the required tools installed, you can assemble, link, and run the encryption program as follows:
-
     ```bash
     cd asm-encrypt
     make
